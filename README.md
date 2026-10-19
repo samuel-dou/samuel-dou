@@ -4,7 +4,7 @@ This is my FTC team’s 25-26 DECODE season Github repository:
 
 Link: https://github.com/Skyhawkbotics/DECODE
 
-The most pertinent files are as follows, where I co-led programming for our automated ball-shooting system:
+The most pertinent files are as follows, where I created/co-led programming for our automated ball-shooting system:
 
 Shooter.java - https://github.com/Skyhawkbotics/DECODE/blob/master/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/core/subsystems/Shooter.java
 
