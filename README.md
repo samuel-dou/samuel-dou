@@ -22,6 +22,11 @@ I created an Arduino-based LED Arcade game, testing a user's reaction speed. The
 
 Link: https://github.com/samuel-dou/arduino_led_arcade_game
 
+final_code - https://github.com/samuel-dou/arduino_led_arcade_game/blob/main/final_code.ino
+
+prototype_1 - https://github.com/samuel-dou/arduino_led_arcade_game/blob/main/prototype_1.ino
+
+prototype_2 - https://github.com/samuel-dou/arduino_led_arcade_game/blob/main/prototype_2.ino
 
 <!--
 **samuel-dou/samuel-dou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
